@@ -13,5 +13,3 @@ Bugs:
 
 5 - O botão "Novo Jogo" fica desabilitado quando ocorre o bug numero 2.
 
-
-Ainda não resolvido.
